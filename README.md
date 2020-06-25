@@ -1,7 +1,5 @@
 # Senior_Design_Project_CS179
 
-# Space Militia Game #
-
 ## Overview:
 
     Data Box
